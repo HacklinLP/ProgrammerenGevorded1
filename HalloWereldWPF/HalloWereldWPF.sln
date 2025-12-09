@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.13.35828.75 d17.13
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HalloWereldWPF", "HalloWereldWPF\HalloWereldWPF.csproj", "{C2418AC3-F205-41DA-9334-9F3B1DCC6BEE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C2418AC3-F205-41DA-9334-9F3B1DCC6BEE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C2418AC3-F205-41DA-9334-9F3B1DCC6BEE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C2418AC3-F205-41DA-9334-9F3B1DCC6BEE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C2418AC3-F205-41DA-9334-9F3B1DCC6BEE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {CEA37F7C-C2FD-47FE-B31B-B46DA327C5F3}
+	EndGlobalSection
+EndGlobal

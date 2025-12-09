@@ -1,0 +1,7 @@
+VLM Airlines|Consumer services|Airlines|Antwerp|1992|Airline|737|Brunelle|Dekegel|2/01/1941 8:39:40|Sint-Pieters-Kapelle|1541|Stekensbergstraat|63|Brunelle.Dekegel@VLMAirlines.be
+Groupe Bruxelles Lambert|Industrials|Diversified industrials|Brussels|1902|Industrial holdings|405|Alihan|Cielen|15/04/1947 11:30:21|Vissenaken|3300|Plantenlaan|40|Alihan.Cielen@GroupeBruxellesLambert.be
+Compagnie Nationale à Portefeuille (CNP)|Industrials|Diversified industrials|Gerpinnes|1981|Industrial holding|34|Anne-Christel|Louviaux|15/10/1927 20:11:08|Waanrode|3473|Oeverweg|64|Anne-Christel.Louviaux@CompagnieNationaleàPortefeuille(CNP).be
+Bekaert|Basic materials|Specialty chemicals|Kortrijk|1880|Metal transformations and coatings|442|Iryna|Belhadj|29/07/1982 14:56:00|Oostkamp|8020|Gosserieslaan|73|Iryna.Belhadj@Bekaert.be
+Union Minière du Haut Katanga|Basic materials|General mining|Brussels|1906|Mining, defunct 1966|213|Citlali|Vanopdenbosch|23/05/1983 3:20:38|Nossegem|1930|Ziltedreef|73|Citlali.Vanopdenbosch@UnionMinièreduHautKatanga.be
+Teleroute|Industrials|Delivery services|Brussels|1985|Freight|18|Peyruze|Vandervelden|10/12/1988 8:29:52|Overhespen|3350|Thenaertsstraat|29|Peyruze.Vandervelden@Teleroute.be
+National Railway Company of Belgium|Consumer services|Rail transport|Brussels|1926|Passenger rail|142|Melki|Delaive|13/08/1940 11:35:12|Geetbets|3450|Hertog Van Arenbergdreef|32|Melki.Delaive@NationalRailwayCompanyofBelgium.be
