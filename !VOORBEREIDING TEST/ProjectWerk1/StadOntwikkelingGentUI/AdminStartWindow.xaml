@@ -1,0 +1,16 @@
+﻿<Window x:Class="StadontwikkelingGentUI.AdminStartWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:StadontwikkelingGentUI"
+        mc:Ignorable="d"
+        Title="AdminStartWindow" Height="202" Width="800">
+    <Grid Margin="0,0,0,67">
+        <Button Content="Partnerbeheer" Margin="10,92,565,-51" Click="Partnerbeheer_Click"/>
+        <Button Content="Gebruikerbeheer" Margin="572,92,14,-51" Click="Gebruikerbeheer_Click"/>
+        <Button Content="Projectbeheer" Margin="265,92,266,-51" Click="ProjectBeheer_Click"/>
+        <TextBlock TextWrapping="Wrap" TextAlignment="Center" VerticalAlignment="Center" FontSize="30"><Run Text="Welkom Administrator, wat wilt u vandaag doen"/><Run Language="nl-nl" Text="?"/></TextBlock>
+
+    </Grid>
+</Window>
